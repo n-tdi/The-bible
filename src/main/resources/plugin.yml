@@ -1,0 +1,6 @@
+name: CustomBooks
+version: '${project.version}'
+main: world.ntdi.custombooks.CustomBooks
+api-version: 1.19
+commands:
+  book:
